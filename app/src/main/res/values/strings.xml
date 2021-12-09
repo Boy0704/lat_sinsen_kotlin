@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sinsen Lat1</string>
+    <string name="dialog_save_data">Yakin akan simpan ?</string>
+    <string name="button_save">Simpan</string>
+    <string name="button_cancel">Batal</string>
+
+    <string-array name="location">
+        <item>Semarang</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+    </string-array>
+</resources>

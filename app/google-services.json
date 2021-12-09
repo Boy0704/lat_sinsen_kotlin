@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "505098166632",
+    "project_id": "all-aplikasi-24d82",
+    "storage_bucket": "all-aplikasi-24d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505098166632:android:1e19c9b7dee626dfde76dd",
+        "android_client_info": {
+          "package_name": "com.apps.absensistikesbunda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXHhjlegwpMB5sONKrtUdd-78xZlK_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505098166632:android:1bfca05a4d4fa1dede76dd",
+        "android_client_info": {
+          "package_name": "com.apps.jmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXHhjlegwpMB5sONKrtUdd-78xZlK_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505098166632:android:b9c3c4ecb0f792edde76dd",
+        "android_client_info": {
+          "package_name": "com.apps.sinsenlat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXHhjlegwpMB5sONKrtUdd-78xZlK_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505098166632:android:41d0d96a80d26693de76dd",
+        "android_client_info": {
+          "package_name": "com.belajar.crudfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505098166632-8nejp97c7q56dmplvbutkovqid0gf1ov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.belajar.crudfirestore",
+            "certificate_hash": "fc8449e4883068f2921f3f5289bf69d70330a69a"
+          }
+        },
+        {
+          "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXHhjlegwpMB5sONKrtUdd-78xZlK_fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505098166632-mqguho83ajbcu2mldm59s628i9dj07gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
